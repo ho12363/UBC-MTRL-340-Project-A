@@ -8,7 +8,6 @@
 	>Muktinutalapati, N.R., “Materials for gas turbines–an overview”, In Advances in Gas Turbine Technology, InTech, 2011.
  
 3. (Top) Rolls-Royce Conway gas turbine engine system and (Bottom) Temperature, pressure and velocity profile of gas turbine engine system
-   ![[(Top) Rolls-Royce Conway gas turbine engine system and (Bottom) Temperature, pressure and velocity profile of gas turbine engine system.png]]
    
 ### *Advances in nickel-based cast superalloys*
 1. Nickel-based superalloy with FCC (γ) matrix and ordered FCC (γ′) coherent precipitates has proved to be the right candidate to meet the challenging combination of properties.
